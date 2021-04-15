@@ -1,0 +1,56 @@
+    body {
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .red {
+        color: red;
+    }
+
+    .blue {
+        color: blue;
+    }
+
+    .green {
+        color: green;
+    }
+
+    .BOB {
+        color: orange;
+        font-size: 36px;
+        font-weight: bold;
+
+    }
+
+    .big {
+        font-size: 36px;
+    }
+
+    .tiny {
+        font-size: 12px;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .bold {
+        font-weight: bold;
+    }
+
+    .font {
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .styledFont {
+        font-family:'Courier New', Courier, monospace;
+        color: palevioletred;
+    }
+
+    .img {
+        border-style: double;
+        border-width: 10pt;
+        border-color: lime
+    }
